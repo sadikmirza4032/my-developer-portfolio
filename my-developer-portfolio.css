@@ -18,6 +18,8 @@ h2{
 .firstpage{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding: 50px;
+   
 }
 .secondpage{
     background-image: url(images/left-banner.png);
